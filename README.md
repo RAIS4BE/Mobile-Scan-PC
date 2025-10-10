@@ -4,12 +4,11 @@ This dataset comprises 3D point clouds of indoor scenes collected primarily usin
 
 (1) SDE1 & SDE2
 
-<img width="880" height="1287" alt="image" src="https://github.com/user-attachments/assets/7350edb9-93a5-4e5c-9293-23d9d79d8943" />
+<img width="989" height="929" alt="image" src="https://github.com/user-attachments/assets/c532e893-5be6-4fea-a9f2-46b4d7c0eed6" />
 
 Figure and Table below illustrate results of the semantic segmentation of one selected scene using ResPointNet++. The overall segmentation accuracy reaches a mean Intersection over Union (mIoU) of 78.14%, and an overall accuracy (OA) of 89.68%. Notably, the mIoU for building elements other than clutters exceeds 87%, indicating that the captured point cloud possesses high completeness and density. However, the segmentation of clutters yields a lower IoU of 39.38%. This reduced performance may be attributed to the diversity of clutters, which makes it challenging for the model to learn consistent features that accurately represent all types of clutters.
 
 <img width="972" height="441" alt="image" src="https://github.com/user-attachments/assets/23bb2008-0f20-45a5-a9d4-1b4cca2caca2" />
-
 
 
 Please cite when using the dataset.
