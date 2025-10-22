@@ -13,4 +13,4 @@ Figure and Table below illustrate results of the semantic segmentation of one se
 
 Please cite when using the dataset.
 
-Citation: Gan, V.J.L., Hu, D., Wang, T., Li, K. (2023). Mobile-Scan-PC. https://github.com/RAIS4BE/Mobile-Scan-PC. 
+Citation: Gan, V.J.L., Hu, D., Wang, T., Li, K. (2023). Mobile-Scan-PC. 
