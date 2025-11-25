@@ -8,6 +8,7 @@ The dataset has not yet been published in any journal article. A summary present
 Citation: Gan, V.J.L., Hu, D., Wang, T., Li, K. (2023). Mobile-Scan-PC. https://github.com/RAIS4BE/Mobile-Scan-PC
 
 Scanned 3D Scenes
+
 In the scanning experiment, LiDAR and stereo cameras were used to scan several indoor scenes, ensuring the camera captures spatial data from various angles and perspectives. Figure below shows the selected examples out of a total of 15 scenes. As the cameras move around these indoor scenes, the camera continuously emits laser beams (in case of LiDAR camera) or captures stereo images (in case of stereo camera), measuring distances to surfaces and generating depth images. These RGB and depth data are transmitted in real-time to process the incoming data immediately, converting it into point clouds for a dense 3D representation of the scanned environment. 
 
 <img width="989" height="929" alt="image" src="https://github.com/user-attachments/assets/c532e893-5be6-4fea-a9f2-46b4d7c0eed6" />
