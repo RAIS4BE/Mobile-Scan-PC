@@ -1,7 +1,7 @@
 # Mobile-Scan-PC
 
 
-# (1) SDE1 & SDE2
+**(1) SDE1 & SDE2**
 
 This dataset comprises 3D point clouds of indoor scenes collected primarily using a solid-state LiDAR–camera (Intel RealSense L515) since 2022 on SDE, National University of Singapore. Data collection was conducted by Vincent Gan, Difeng Hu, and Tao Wang, with assistance from Kexin Li in data processing.
 
@@ -17,4 +17,4 @@ Figure and Table below illustrate results of the semantic segmentation of one se
 <img width="700" height="400" alt="image" src="https://github.com/user-attachments/assets/23bb2008-0f20-45a5-a9d4-1b4cca2caca2" />
 
 
-# (2) More mobile scan PC coming soon ...
+_(2) More mobile scan PC coming soon_
