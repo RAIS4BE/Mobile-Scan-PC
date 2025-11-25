@@ -14,7 +14,7 @@ In the scanning experiment, LiDAR and stereo cameras were used to scan several i
 
 Figure and Table below illustrate results of the semantic segmentation of one selected scene using ResPointNet++. The overall segmentation accuracy reaches a mean Intersection over Union (mIoU) of 78.14%, and an overall accuracy (OA) of 89.68%. Notably, the mIoU for building elements other than clutters exceeds 87%, indicating that the captured point cloud possesses high completeness and density. However, the segmentation of clutters yields a lower IoU of 39.38%. This reduced performance may be attributed to the diversity of clutters, which makes it challenging for the model to learn consistent features that accurately represent all types of clutters.
 
-<img width="700" height="400" alt="image" src="https://github.com/user-attachments/assets/23bb2008-0f20-45a5-a9d4-1b4cca2caca2" />
+<img width="700" height="420" alt="image" src="https://github.com/user-attachments/assets/23bb2008-0f20-45a5-a9d4-1b4cca2caca2" />
 
 
-_(2) More mobile scan PC coming soon_
+**(2) More mobile scan PC coming soon**
