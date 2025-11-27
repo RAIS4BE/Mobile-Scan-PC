@@ -18,5 +18,5 @@ Figure and Table below illustrate results of the semantic segmentation of one se
 
 Data collection for SDE4 was carried out by Jingxuan Li and Vincent Gan. Please cite the article when using the dataset: updating soon.
 
-<img width="700" height="300" alt="Picture1" src="https://github.com/user-attachments/assets/c3a1a4e5-51c0-4db7-b94b-9040576587a7" />
+<img width="758" height="267" alt="Picture1" src="https://github.com/user-attachments/assets/7178a1d7-a2c9-4083-8f45-5cb4a54042b2" />
 
