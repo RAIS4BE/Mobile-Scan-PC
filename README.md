@@ -17,4 +17,7 @@ Figure and Table below illustrate results of the semantic segmentation of one se
 <img width="700" height="420" alt="image" src="https://github.com/user-attachments/assets/23bb2008-0f20-45a5-a9d4-1b4cca2caca2" />
 
 
-**(2) More mobile scan PC coming soon**
+**(2) Park by NUS Kent Vale**
+Data collection for the Park by NUS Kent Vale was carried out by Jingxuan Li and Vincent Gan. Please cite the article when using the dataset: updating soon.
+
+<img width="1182" height="697" alt="Picture1" src="https://github.com/user-attachments/assets/29670275-c0d1-42ef-914e-b46e23517af6" />
